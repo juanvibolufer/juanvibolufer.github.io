@@ -26,8 +26,8 @@ contact: static
 color:
   primary: FFAE42
   primary-rgb: "255,174,66" #"128,179,255"
-  secondary: FFFFFF #FD6E8A
-  secondary-dark: 000000 #A2122F
+  secondary: 000000 #FD6E8A
+  secondary-dark: FFFFFF #A2122F
 
 # Footer settings
 footer:
