@@ -24,30 +24,32 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: FFAE42
+  primary-rgb: "255,174,66" #"128,179,255"
+  secondary: FFFFFF #FD6E8A
+  secondary-dark: 000000 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Juanvi Bolufer
+  location: Ubicación
+  social: Redes Sociales
+  credits: Frases
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/juanvibolufer
-  - title: facebook
-    url:
+    url: https://twitter.com/juanvibolufer
+  - title: linkedin
+    url: https://www.linkedin.com/in/juanvibolufer/
   - title: stack-overflow
     url: https://stackoverflow.com/story/juanvibolufer
   - title: bitbucket
-    url: http://bitbucket.org/juanvibolufer
+    url: https://bitbucket.org/juanvibolufer
   - title: github
-    url: http://github.com/juanvibolufer
+    url: https://github.com/juanvibolufer
+  - title: linkedin
+
 
 # Postal address (add as many lines as necessary)
 #address:
